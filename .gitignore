@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+node_modules/
+dist/
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+!models/README.md
+test-results/
+playwright-report/
+*.log
+*.tsbuildinfo
